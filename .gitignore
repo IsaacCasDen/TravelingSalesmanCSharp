@@ -1,0 +1,6 @@
+obj/
+bin/
+.vscode/
+export*.csv
+data*.csv
+output*.txt
